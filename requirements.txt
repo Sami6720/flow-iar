@@ -16,7 +16,10 @@ wandb
 tensorboard
 geomloss
 numba
-
+survae
+torch
+pytorch-sparse
+pyflann
 # survae==0.1: from https://github.com/didriknielsen/survae_flows
 # torch==1.11.0: from official site
 # pytorch-sparse: from conda, `conda install pytorch-sparse -c pyg`
